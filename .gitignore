@@ -1,0 +1,25 @@
+# --- Compilação e Build (Maven e Java) ---
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+
+# --- Arquivos Privados/Temporários do NetBeans ---
+nbproject/private/
+nbproject/project.fragment
+nbproject/build-impl.xml
+*.log
+
+# --- Outras IDEs (IntelliJ, Eclipse, VS Code) ---
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
